@@ -1,8 +1,8 @@
-# LOREM IPSUM BLOCKCHAIN ECOSYSTEM INTERIM CONSTITUTION
+# UPDATED: Test 113
 
 ## INTRODUCTORY NOTES
 
-Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit.
 
 Consectetur adipiscing elit.
 
@@ -131,10 +131,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [PARAM-02] (x) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**Parameters that are Critical to the Governance System**
+**Parameters that are Critical to the Governance System**v11reiwr
 
 - Lorem ipsum dolor sit amet (stakeAddressDeposit)
 - Consectetur adipiscing elit (stakePoolDeposit)
 - Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua (minPoolCost)
-- Ut enim ad minim veniam (drepDeposit)
-- Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (committeeMinSize)
